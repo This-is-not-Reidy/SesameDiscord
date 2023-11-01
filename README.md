@@ -1,2 +1,2 @@
-# SesameDiscord
+# Sesame Discord
 Sesame bot Discord
